@@ -6,7 +6,7 @@ This addon is intended to create fast rigs based on a template that can be adapt
 
 It contains a library that can easily reproduce common rigging functionalities like switchable ik-fk limbs, spline chains, heel mechanisms, etc
 
-*Basic functionality demonstration
+Basic functionality demonstration :arrow_forward:
 https://vimeo.com/595452418
 
 ![Snapshot](https://github.com/udun-admin/Auto-Rig/blob/main/snapshot.jpg)
